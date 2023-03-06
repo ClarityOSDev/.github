@@ -1,1 +1,1 @@
-# .github
+The Official Page for ClarityOS Development and Updates! ClarityOS is an upcoming OS focused on Security Optimization, and Productivity. Our OS is suited for anyone who needs to make the most out of their machine & hardware!
